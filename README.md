@@ -1,4 +1,4 @@
-# 215_reinforcement
+# Gym Reinforcement
 A collection of scripts for implementing Q-learning policies on OpenAI Gym environments
 
 cart_pole_env.py contains code to train and run an agent in the CartPole-v0 environment, utilizing a Q-learning policy
